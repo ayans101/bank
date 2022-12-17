@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ayans101/bank/db/util"
+	"github.com/ayans101/bank/util"
 	"github.com/stretchr/testify/require"
 )
 
